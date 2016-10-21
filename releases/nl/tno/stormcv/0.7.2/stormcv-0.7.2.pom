@@ -44,7 +44,7 @@
 		</repository>
 		<repository>
 			<id>xuggle repo</id>
-			<url>http://xuggle.googlecode.com/svn/trunk/repo/share/java/</url>
+			<url>https://doc-08-28-docs.googleusercontent.com/docs/securesc/5am9gldgsrumafd84m40q5v3s8a4sfm2/5oltoe594kcil6bvs18kktb5nbrkr3ua/1477044000000/09379832835697518121/09379832835697518121/0Bz1chTAvs30mdW95Q3ppcVRxQkU?e=download&rid=0Bz1chTAvs30mWW5QOGFPb3BPUVE4dG5IU0hSazFRcWpaNjdjPQ&nonce=r95out7a5vd0e&user=09379832835697518121&hash=hnarech5iklido3v00su1g9pv5lf3183/</url>
 		</repository>
 	</repositories>
 	<dependencies>
